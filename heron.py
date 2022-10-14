@@ -1317,7 +1317,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrHERON-CYBER💋 -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://raw.githubusercontent.com/heroncyber99/Heron-CYBER--Approval-/main/Approval.txt?token=https://github.com/heroncyber99/Heron-CYBER--Approval-/raw/main/Approval.txt").text
+	r1=requests.get("https://github.com/heroncyber99/Pad-apv-1/raw/main/pad-approval.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
